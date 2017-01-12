@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b05d2fd204611d40ab284ab5d271cb8
+timeCreated: 1484155206
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainTheme: {fileID: 8300000, guid: a0940478c41f12e42b6663ccaf97555a, type: 3}
+  - menuTheme: {fileID: 8300000, guid: f95600e571d7ae84c8726ce37f7282ed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
