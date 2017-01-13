@@ -62,7 +62,7 @@ public class Menu : MonoBehaviour {
         if (resToggles[i].isOn)
         {
             activeScreenIndex = i;
-            float Ratio = 16 / 9f;
+            float Ratio = 16 / 10f;
             Screen.SetResolution(screenWidths[i], (int)(screenWidths[i] / Ratio), false);
             PlayerPrefs.SetInt("screen res index", activeScreenIndex);
             PlayerPrefs.Save();

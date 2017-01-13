@@ -81,10 +81,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AudioManager.cs" />
+    <Compile Include="Assets\Audio\AudioManager.cs" />
+    <Compile Include="Assets\Audio\MusicManager.cs" />
+    <Compile Include="Assets\Audio\SoundLibrary.cs" />
     <Compile Include="Assets\Menu.cs" />
-    <Compile Include="Assets\MusicManager.cs" />
-    <Compile Include="Assets\SoundLibrary.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Metal Mayhem Music Pack\1 - Info.txt" />
